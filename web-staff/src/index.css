@@ -1,3 +1,5 @@
+/* NOTE: Global styles should stay simple so the staff dashboard remains responsive and easy to view. */
+
 :root {
   --text: #6b6375;
   --text-h: #08060d;
