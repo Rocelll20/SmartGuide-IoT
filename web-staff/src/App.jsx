@@ -1,3 +1,4 @@
+// NOTE: This dashboard file controls staff monitoring for blind users, obstacle alerts, fall alerts, and location updates.
 import { useEffect, useState } from "react";
 import "./App.css";
 
