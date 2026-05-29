@@ -1,5 +1,5 @@
 // NOTE: Keep this mobile app accessible because it gives voice and vibration alerts to the blind user.
-// NOTE: Keep this mobile app accessible because it gives voice and vibration alerts to the blind user.
+// CAUTION: Do not change the backend URL unless the deployed SmartGuide API link is updated.
 
 import { useEffect, useRef, useState } from "react";
 import {
