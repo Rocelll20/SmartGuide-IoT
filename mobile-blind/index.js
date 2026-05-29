@@ -1,3 +1,6 @@
+// NOTE: This file starts the Expo mobile app, so avoid changing the root component registration unless needed.
+// NOTE: This file starts the Expo mobile app, so avoid changing the root component registration unless needed.
+
 import { registerRootComponent } from 'expo';
 
 import App from './App';
