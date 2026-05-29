@@ -1,3 +1,4 @@
+# NOTE: This FastAPI backend connects the ESP32, mobile app, staff dashboard, and Supabase database.
 import os
 from datetime import datetime
 from typing import Optional
