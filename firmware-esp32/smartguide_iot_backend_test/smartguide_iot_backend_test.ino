@@ -1,3 +1,4 @@
+// CAUTION: Do not push real WiFi passwords or private hotspot credentials to GitHub
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <WiFiClientSecure.h>
